@@ -1,14 +1,9 @@
 {
     "Ar36": {
-        "error": 0.002710624992027251,
+        "error": 0.00024157794435245185,
         "error_type": "",
-        "fit": "Cubic_SD",
+        "fit": "Bracketing Interpolate",
         "references": [
-            {
-                "exclude": "ok",
-                "record_id": "bu-FC-J-13049",
-                "uuid": "c3185185-2579-4ad0-bbfb-97ebfe372d5a"
-            },
             {
                 "exclude": "ok",
                 "record_id": "bu-FC-J-13050",
@@ -101,18 +96,13 @@
             }
         ],
         "reviewed": true,
-        "value": 0.009470134947976053
+        "value": 0.013589216429073502
     },
     "Ar37": {
-        "error": 0.0044982761194128805,
+        "error": 0.0015738439756098604,
         "error_type": "",
-        "fit": "Weighted Mean_SD",
+        "fit": "Weighted Mean_SE but if MSWD>1 use SE * sqrt(MSWD)",
         "references": [
-            {
-                "exclude": "ok",
-                "record_id": "bu-FC-J-13049",
-                "uuid": "c3185185-2579-4ad0-bbfb-97ebfe372d5a"
-            },
             {
                 "exclude": "ok",
                 "record_id": "bu-FC-J-13050",
@@ -205,18 +195,13 @@
             }
         ],
         "reviewed": true,
-        "value": 0.026398113471454206
+        "value": 0.026971071749592235
     },
     "Ar38": {
-        "error": 0.006252733114185147,
+        "error": 0.0015286077720573787,
         "error_type": "",
-        "fit": "Weighted Mean_SD",
+        "fit": "Weighted Mean_SE but if MSWD>1 use SE * sqrt(MSWD)",
         "references": [
-            {
-                "exclude": "ok",
-                "record_id": "bu-FC-J-13049",
-                "uuid": "c3185185-2579-4ad0-bbfb-97ebfe372d5a"
-            },
             {
                 "exclude": "ok",
                 "record_id": "bu-FC-J-13050",
@@ -309,18 +294,13 @@
             }
         ],
         "reviewed": true,
-        "value": 0.012711281843953674
+        "value": 0.013165870073635287
     },
     "Ar39": {
-        "error": 0.020547831063693196,
+        "error": 0.004927188914697349,
         "error_type": "",
-        "fit": "Weighted Mean_SD",
+        "fit": "Weighted Mean_SE but if MSWD>1 use SE * sqrt(MSWD)",
         "references": [
-            {
-                "exclude": "ok",
-                "record_id": "bu-FC-J-13049",
-                "uuid": "c3185185-2579-4ad0-bbfb-97ebfe372d5a"
-            },
             {
                 "exclude": "ok",
                 "record_id": "bu-FC-J-13050",
@@ -413,18 +393,13 @@
             }
         ],
         "reviewed": true,
-        "value": 0.053755578022703455
+        "value": 0.0539922726922912
     },
     "Ar40": {
-        "error": 0.7726668515313652,
+        "error": 0.018038772913366315,
         "error_type": "",
-        "fit": "Cubic_SD",
+        "fit": "Bracketing Interpolate",
         "references": [
-            {
-                "exclude": "ok",
-                "record_id": "bu-FC-J-13049",
-                "uuid": "c3185185-2579-4ad0-bbfb-97ebfe372d5a"
-            },
             {
                 "exclude": "ok",
                 "record_id": "bu-FC-J-13050",
@@ -517,7 +492,7 @@
             }
         ],
         "reviewed": true,
-        "value": 2.4518013303623825
+        "value": 3.2672175631853904
     },
     "Ar41": {
         "error": 0.0046768655976593835,
